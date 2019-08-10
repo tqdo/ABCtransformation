@@ -1,4 +1,4 @@
-# An-alternative-to-Box-Cox-transformation
+# An alternative to Box Cox transformation
 This repository contains 2 functions in R.
 
 The first one outputs I splines and M splines basis for a row vector
